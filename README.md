@@ -21,6 +21,9 @@ npm install
 ### How to run build
 ```
 npm run build
+```
+### How to run app
+```
 npm start
 ```
 
