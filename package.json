@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/anish8484/weather.git"
   },
   "keywords": [
     "weather",
@@ -75,5 +75,5 @@
       "<rootDir>/jest-setup.js"
     ]
   },
-  "homepage": "#readme"
+  "homepage": "https://github.com/anish8484/weather.git#readme"
 }
